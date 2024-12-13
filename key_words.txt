@@ -1,0 +1,72 @@
+#常用关键词筛选
+
+# 选择模式
+🤖 自动选择 (Auto Select)
+🖱️ 手动选择 (Manual Select)
+
+# 地区分组关键词
+
+🌏 东南亚：Thailand|Singapore|Malaysia|Indonesia|Vietnam|Philippines|Japan|Korea|TH|SG|MY|ID|VN|PH|JP|KR|泰国|新加坡|马来西亚|印度尼西亚|越南|菲律宾|日本|韩国|新日本|日本高速|新加坡高速|狮城|韩国高速|新韩国
+
+🏮 香港：Hong Kong|HongKong|HK|香港|HKBGP|HKT|HKBN|WTT|CMI|港|深港|沪港|京港
+
+🇨🇳 台湾：Taiwan|TW|台湾|台北|台中|高雄|台|新台|TWN
+
+🇯🇵 日本：Japan|JP|JPN|日本|东京|大阪|东京|京都|名古屋|Tokyo|Osaka|Kyoto|Nagoya|日|日特|日高|新日本|JP|日本高速
+
+🇰🇷 韩国：Korea|South Korea|KR|KOR|韩国|首尔|釜山|仁川|Seoul|Busan|Incheon|韩|韩特|韩高|新韩国|南韩|KR|韩国高速
+
+🇸🇬 新加坡：Singapore|SG|SGP|新加坡|狮城|新加坡高速|新|新特|新高|SG|新加坡特快|新加坡IEPL
+
+🇹🇭 泰国：Thailand|TH|THA|泰国|曼谷|清迈|普吉|Bangkok|Chiangmai|Phuket|泰|泰特|泰高
+
+🇲🇾 马来西亚：Malaysia|MY|MYS|马来西亚|吉隆坡|马|马特|马高|Kuala Lumpur|KUL
+
+🇻🇳 越南：Vietnam|VN|VNM|越南|胡志明市|河内|Hanoi|Ho Chi Minh|越|越特|越高
+
+🇵🇭 菲律宾：Philippines|PH|PHL|菲律宾|马尼拉|宿务|Manila|Cebu|菲|菲特|菲高
+
+🇮🇩 印尼：Indonesia|ID|IDN|印度尼西亚|印尼|雅加达|泗水|Jakarta|Surabaya|印|印特|印高
+
+🌏 亚洲整体：Asia|亚洲|亚洲高速|Japan|Korea|Singapore|Thailand|Malaysia|Vietnam|Philippines|Indonesia|JP|KR|SG|TH|MY|VN|PH|ID|日本|韩国|新加坡|泰国|马来西亚|越南|菲律宾|印度尼西亚|狮城|东京|首尔|曼谷|吉隆坡
+
+🗽 美国：United States|USA|US|America|美国|美利坚|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|华盛顿|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|USD|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|华盛顿|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥
+
+🏰 欧洲：Germany|France|UK|Italy|Spain|Netherlands|Switzerland|Sweden|Norway|Denmark|Finland|Belgium|Austria|Ireland|Portugal|Greece|Poland|Czech Republic|Hungary|Romania|DE|FR|GB|IT|ES|NL|CH|SE|NO|DK|FI|BE|AT|IE|PT|GR|PL|CZ|HU|RO|德国|法国|英国|意大利|西班牙|荷兰|瑞士|瑞典|挪威|丹麦|芬兰|比利时|奥地利|爱尔兰|葡萄牙|希腊|波兰|捷克|匈牙利|罗马尼亚|伦敦|巴黎|法兰克福|阿姆斯特丹
+
+🇬🇧 英国：United Kingdom|UK|Britain|England|GB|GBR|英国|英格兰|伦敦|曼彻斯特|利物浦|LONDON|伦敦高速
+
+🇩🇪 德国：Germany|DE|DEU|德国|法兰克福|柏林|慕尼黑|德|新德|Frankfurt|Berlin|Munich|德特|德高|德法
+
+🇫🇷 法国：France|FR|FRA|法国|巴黎|里昂|马赛|Paris|法|巴黎高速
+
+🇮🇹 意大利：Italy|IT|ITA|意大利|罗马|米兰|威尼斯|Rome|Milan|意|意高速
+
+🇳🇱 荷兰：Netherlands|NL|NLD|荷兰|阿姆斯特丹|鹿特丹|Amsterdam|Rotterdam|荷兰高速
+
+🇨🇭 瑞士：Switzerland|CH|CHE|瑞士|苏黎世|日内瓦|伯尔尼|Zurich|Geneva|瑞士高速
+
+🏰 欧洲整体：Europe|EU|欧洲|欧盟|Europe|欧洲高速|Germany|France|UK|Italy|Spain|Netherlands|Switzerland|Sweden|Norway|Denmark|Finland|Belgium|Austria|Ireland|Portugal|Greece|Poland|Czech Republic|Hungary|Romania|DE|FR|GB|IT|ES|NL|CH|SE|NO|DK|FI|BE|AT|IE|PT|GR|PL|CZ|HU|RO|德国|法国|英国|意大利|西班牙|荷兰|瑞士|瑞典|挪威|丹麦|芬兰|比利时|奥地利|爱尔兰|葡萄牙|希腊|波兰|捷克|匈牙利|罗马尼亚
+
+🇨🇦 加拿大：Canada|CA|CAN|加拿大|蒙特利尔|温哥华|多伦多
+
+🇦🇺 澳大利亚：Australia|AU|AUS|澳大利亚|澳洲|悉尼|墨尔本|布里斯班
+
+🇮🇳 印度：India|IN|IND|印度|孟买|新德里|加尔各答
+
+🇷🇺 俄罗斯：Russia|RU|RUS|俄罗斯|莫斯科|圣彼得堡
+
+🌍 中东：Dubai|United Arab Emirates|UAE|Saudi Arabia|Qatar|迪拜|阿联酋|沙特|卡塔尔
+
+🇧🇷 南美：Brazil|Argentina|Chile|巴西|阿根廷|智利|圣保罗|布宜诺斯艾利斯
+
+🇿🇦 非洲：South Africa|Nigeria|Egypt|南非|约翰内斯堡|开普敦|开罗
+
+# 特殊类型
+⚡ 专线：IEPL|IPLC|EIP|CN2|BGP|GIA|AIA|CTM|CEN|CMI|NTT|专线|高速|高级|精品|特殊
+
+🚀 游戏：Game|Gaming|游戏|游戏专用|GAME|GAMING
+
+🎬 流媒体：Netflix|Disney|Stream|Streaming|Media|流媒体|串流|解锁
+
+❓ 未知区域：[以上所有关键词的否定形式]
